@@ -1,2 +1,2 @@
-# test-repo
+# my-first-repo
 testing out github
